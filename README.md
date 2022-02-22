@@ -1,2 +1,4 @@
 # Complexe_it_2015
-Projet informatique theorique POO
+Complex numbers library: a class to manipulate complex numbers (conjugate, polar coordinates, argument, inverse, addition, multiplication, ...).
+
+OOP
